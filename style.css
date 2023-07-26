@@ -1,0 +1,8 @@
+.container{
+    direction: row;
+    border: 1px solid snow;
+    background-color: blueviolet;
+    font-size: 18px;
+    text-align: left;
+    
+}
